@@ -1,0 +1,15 @@
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.AssemblyInfoInputs.cache
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.AssemblyInfo.cs
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.csproj.CoreCompileInputs.cache
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.sourcelink.json
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/bin/Debug/net8.0/own_practice
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/bin/Debug/net8.0/own_practice.deps.json
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/bin/Debug/net8.0/own_practice.runtimeconfig.json
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/bin/Debug/net8.0/own_practice.dll
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/bin/Debug/net8.0/own_practice.pdb
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.dll
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/refint/own_practice.dll
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.pdb
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/own_practice.genruntimeconfig.cache
+/home/shahith/Desktop/project/Learn_Csharp/own_practice/obj/Debug/net8.0/ref/own_practice.dll
