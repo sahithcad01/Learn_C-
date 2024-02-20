@@ -12,3 +12,17 @@ C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\C#\session02_method\obj\Debug\net7
 C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\C#\session02_method\obj\Debug\net7.0\session02_method.pdb
 C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\C#\session02_method\obj\Debug\net7.0\session02_method.genruntimeconfig.cache
 C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\C#\session02_method\obj\Debug\net7.0\ref\session02_method.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.AssemblyInfoInputs.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.AssemblyInfo.cs
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.csproj.CoreCompileInputs.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\refint\session02_method.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.pdb
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\bin\Debug\net7.0\session02_method.exe
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\bin\Debug\net7.0\session02_method.deps.json
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\bin\Debug\net7.0\session02_method.runtimeconfig.json
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\bin\Debug\net7.0\session02_method.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\bin\Debug\net7.0\session02_method.pdb
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\session02_method.genruntimeconfig.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session02_method\obj\Debug\net7.0\ref\session02_method.dll
