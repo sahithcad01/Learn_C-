@@ -1,0 +1,14 @@
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.AssemblyInfoInputs.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.AssemblyInfo.cs
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\bin\Debug\net7.0\session04_Inheritance.exe
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\bin\Debug\net7.0\session04_Inheritance.deps.json
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\bin\Debug\net7.0\session04_Inheritance.runtimeconfig.json
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\bin\Debug\net7.0\session04_Inheritance.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\bin\Debug\net7.0\session04_Inheritance.pdb
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\refint\session04_Inheritance.dll
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.pdb
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\session04_Inheritance.genruntimeconfig.cache
+C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\Learn_Csharp\session04_Inheritance\obj\Debug\net7.0\ref\session04_Inheritance.dll
