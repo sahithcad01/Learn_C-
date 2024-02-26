@@ -1,6 +1,6 @@
 namespace brightTree{
      class Nightwork: Brightservice{
-     string jobtime,sysrequiremet;
+     string jobtime,sysrequirement;
      int emlycount;
      public Nightwork(){
           Console.WriteLine("Night Work!");

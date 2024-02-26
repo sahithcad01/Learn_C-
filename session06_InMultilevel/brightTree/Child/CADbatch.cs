@@ -1,14 +1,16 @@
 namespace brightTree{
     class CADbatch: Brightservice{
-        string[] programlang;
-        string coursetime;
-        int stdcount;
+        string[] CADprogramlang;
+        string CADcoursetime;
+        int CADstdcount;
 
         public CADbatch(){
              Console.WriteLine("CAD batch!");
-             coursetime = "2.00PM to 6.00PM";
-             stdcount = 30;
-             string[] programlang = {"HTML", "CSS", "SQL", "JAVASCRIPT", "C#", "NODEJS", ".NET", "GITHUB"};
+             CADcoursetime = "2.00PM to 6.00PM";
+             CADstdcount = 30;
+             string[] CADprogramlang = {"HTML", "CSS", "SQL", "JAVASCRIPT", "C#", "NODEJS", ".NET", "GITHUB"};
         }
+
+        public Get
     }
 }
